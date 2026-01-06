@@ -1,0 +1,2 @@
+Features_idx	R2_train	R2_test	RMSE_test	MAE_test	n_estimators	max_depth	Scaler	Features
+"(1, 4, 5)"	0.867138091	0.636165182	6081.972216	4600.631369	200	7	Robust	"®ðÀ£, wave_dir_sin, wave_dir_cos"
